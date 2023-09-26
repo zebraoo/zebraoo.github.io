@@ -12,5 +12,5 @@
 ---
 
 > 作者: zebraoo  
-> URL: https://zebraoo.github.io/guestbook/  
+> URL: http://www.zebraoo.com/guestbook/  
 

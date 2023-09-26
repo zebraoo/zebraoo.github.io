@@ -78,5 +78,5 @@
 ---
 
 > 作者: zebraoo  
-> URL: https://zebraoo.github.io/album/  
+> URL: http://www.zebraoo.com/album/  
 
