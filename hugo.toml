@@ -26,7 +26,7 @@ hasCJKLanguage = true
 [languages]
   [languages.zh-cn]
     weight = 2
-    title = "zebraoo"
+    title = "给我一把大岛"
     # 网站语言，仅在这里 CN 大写
     languageCode = "zh-CN"
     languageName = "简体中文"
@@ -157,12 +157,12 @@ hasCJKLanguage = true
   dateFormat = "2006-01-02"
   # website images for Open Graph and Twitter Cards
   # 网站图片，用于 Open Graph 和 Twitter Cards
-  images = []
+  images = ['/avatar.jpg']
   # FixIt 0.2.12 | NEW enable PWA
   enablePWA = false
   # FixIt 0.2.14 | NEW whether to add external Icon for external links automatically
   # FixIt 0.2.14 | 新增 是否自动显示外链图标
-  externalIcon = false
+  externalIcon = true
   # FixIt 0.2.14 | NEW FixIt will, by default, inject a theme meta tag in the HTML head on the home page only.
   # You can turn it off, but we would really appreciate if you don’t, as this is a good way to watch FixIt's popularity on the rise.
   # FixIt 0.2.14 | 新增 默认情况下，FixIt 只会在主页的 HTML 头中注入主题元标记
@@ -390,7 +390,7 @@ hasCJKLanguage = true
       title = "给我一把大岛"
       # subtitle shown in home page
       # 主页显示的网站副标题
-      subtitle = "Java Android Kotlin Vue Flutter 摄影 骑行 Mazda"
+      subtitle = "Java Android Kotlin Vue Flutter React 摄影 骑行 Mazda"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
@@ -518,7 +518,7 @@ hasCJKLanguage = true
     # FixIt 0.2.18 | CHANGED if set to "force", images in the content will be forced to shown as the gallery.
     # 是否使用 lightgallery
     # FixIt 0.2.18 | 更改 如果设为 "force"，文章中的图片将强制按照画廊形式呈现
-    lightgallery = false
+    lightgallery = 'force'
     # FixIt 0.2.0 | NEW whether to enable the ruby extended syntax
     # FixIt 0.2.0 | 新增 是否使用 ruby 扩展语法
     ruby = true
