@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "LXGWWenKai-Regular" ;
+    src: url("/fonts/LXGWWenKai-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "LXGWWenKaiMono-Regular" ;
+    src: url("/fonts/LXGWWenKaiMono-Regular.ttf") format("truetype");
+}
+
+html {
+    // font-family: 'system-ui, -apple-system'
+    font-family: 'LXGWWenKai-Regular';
+    // font-size: 1rem;
+    // line-height: 1.5;
+    // margin: 0;
+  }
