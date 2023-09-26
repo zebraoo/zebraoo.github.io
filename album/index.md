@@ -34,7 +34,7 @@
         var albums = [
             {
                 url: '/album/images/avatar.jpg',
-                desc: ''
+                desc: '头像'
             },
         ]
 
