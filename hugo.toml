@@ -1,5 +1,5 @@
 baseURL= 'https://zebraoo.github.io/'
-languageCode= 'en-us'
+#languageCode= 'en-us'
 title= '给我一把大岛'
 theme= 'FixIt'
 
@@ -13,8 +13,15 @@ theme= 'FixIt'
 # See: https://fixit.lruihao.cn/documentation/basics/#menu-configuration
 # -------------------------------------------------------------------------------------
 
-defaultContentLanguage = "zh-CN"
+
+
+# [en, zh-cn, fr, ...] 设置默认的语言
+defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir= false
+# 网站语言, 仅在这里 CN 大写
+languageCode = "zh-CN"
+# 是否包括中日韩文字
+hasCJKLanguage = true
 
 [languages]
   [languages.zh-cn]
@@ -49,6 +56,22 @@ defaultContentLanguageInSubdir= false
       url = "/categories/"
       title = ""
       weight = 3
+    [[languages.zh-cn.menu.main]]
+      identifier = "album"
+      pre = ""
+      post = ""
+      name = "相册"
+      url = "/album/"
+      title = ""
+      weight = 4  
+    [[languages.zh-cn.menu.main]]
+      identifier = "guestbook"
+      pre = ""
+      post = ""
+      name = "留言板"
+      url = "/guestbook/"
+      title = ""
+      weight = 5
 
 
 
@@ -364,10 +387,10 @@ defaultContentLanguageInSubdir= false
       avatarMenu = ""
       # FixIt 0.2.7 | CHANGED title shown in home page (HTML format is supported)
       # FixIt 0.2.7 | 更改 主页显示的网站标题（支持 HTML 格式）
-      title = "技术与生活"
+      title = "给我一把大岛"
       # subtitle shown in home page
       # 主页显示的网站副标题
-      subtitle = "Vue Android Kotlin Flutter"
+      subtitle = "Java Android Kotlin Vue Flutter 摄影 骑行 马自达"
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
