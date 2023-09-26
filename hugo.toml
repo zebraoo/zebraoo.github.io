@@ -1,4 +1,5 @@
-baseURL= 'https://zebraoo.github.io/'
+#baseURL= 'https://zebraoo.github.io/'
+baseURL= 'http://www.zebraoo.com/'
 #languageCode= 'en-us'
 title= '给我一把大岛'
 theme= 'FixIt'
