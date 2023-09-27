@@ -412,7 +412,7 @@ hasCJKLanguage = true
   # FixIt 0.2.16 | CHANGED Social config about the author
    # FixIt 0.2.16 | 更改 作者的社交信息设置
   [params.social]
-    GitHub = "https://github.com/zebraoo"
+    GitHub = "zebraoo"
     Linkedin = ""
     Twitter = ""
     Instagram = ""
