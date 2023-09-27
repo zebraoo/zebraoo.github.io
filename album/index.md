@@ -33,10 +33,6 @@
 
         var albums = [
             {
-                url: '/album/images/avatar.jpg',
-                desc: '头像'
-            },
-            {
                 url: '/album/images/20230927.jpg',
                 desc: '20230927雨后晚霞'
             },
@@ -53,7 +49,7 @@
 
 
         Fancybox.bind('[data-fancybox="gallery"]', {
-            
+
         });
 
         var $grid = $('.grid').masonry({
