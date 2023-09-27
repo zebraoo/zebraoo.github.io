@@ -78,5 +78,5 @@
 ---
 
 > 作者: zebraoo  
-> URL: https://zebraoo.blog/album/  
+> URL: http://zebraoo.blog/album/  
 

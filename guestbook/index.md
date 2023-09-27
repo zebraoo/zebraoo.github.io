@@ -28,5 +28,5 @@
 ---
 
 > 作者: zebraoo  
-> URL: https://zebraoo.blog/guestbook/  
+> URL: http://zebraoo.blog/guestbook/  
 
