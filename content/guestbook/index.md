@@ -14,7 +14,7 @@ draft = false
 
 {{<typeit  >}}
 
-感谢 **Hugo** + **FixIt** 和**各位博主**的文章支持🫶 
+感谢 **Hugo** + **FixIt** 和**各位博主**的技术支持🫶 
 
 {{</typeit >}}
 
