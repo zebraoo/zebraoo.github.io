@@ -39,11 +39,15 @@ draft = false
                 url: '/album/images/avatar.jpg',
                 desc: '头像'
             },
+            {
+                url: '/album/images/20230927.jpg',
+                desc: '20230927雨后晚霞'
+            },
         ]
 
         var albumsStr = ''
         for (var i = 0; i < albums.length; i++) {
-            albumsStr += ' <a class="grid-item" data-fancybox="gallery" data-src="' + albums[i].url + '" data-caption="234' + albums[i].desc + '"><img  src="' + albums[i].url + '"/></a>'
+            albumsStr += ' <a class="grid-item" data-fancybox="gallery" data-src="' + albums[i].url + '" data-caption="' + albums[i].desc + '"><img  src="' + albums[i].url + '"/></a>'
         }
 
         console.log('albumsStr---> ', albumsStr)
@@ -52,7 +56,7 @@ draft = false
 
 
         Fancybox.bind('[data-fancybox="gallery"]', {
-
+            
         });
 
         var $grid = $('.grid').masonry({
