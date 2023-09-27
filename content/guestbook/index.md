@@ -7,7 +7,7 @@ draft = false
 
 {{< style "text-align:right; strong{color:#00b1ff;}" >}}
 > ## 征衣风尘化云烟，江湖落拓不知年
-{{</style >}}
+{{< /style >}}
 
 
 {{<center-quote >}}
