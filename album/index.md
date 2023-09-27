@@ -82,5 +82,5 @@
 ---
 
 > 作者: zebraoo  
-> URL: http://www.zebraoo.com/album/  
+> URL: https://zebraoo.blog/album/  
 
