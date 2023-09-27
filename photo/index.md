@@ -33,7 +33,7 @@
 
         var albums = [
             {
-                url: '/album/images/20230927.jpg',
+                url: '/photo/images/20230927.jpg',
                 desc: '20230927雨后晚霞'
             },
         ]
@@ -78,5 +78,5 @@
 ---
 
 > 作者: zebraoo  
-> URL: http://zebraoo.blog/album/  
+> URL: http://zebraoo.blog/photo/  
 
