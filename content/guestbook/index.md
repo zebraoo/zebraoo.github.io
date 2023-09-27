@@ -11,7 +11,13 @@ draft = false
 
 
 {{< center-quote >}}
-{{< typeit  >}}感谢 **Hugo** + **FixIt** 和**各位博主**的文章支持🫶 {{< /typeit >}}
+
+{{< typeit  >}}
+
+感谢 **Hugo** + **FixIt** 和**各位博主**的文章支持🫶 
+
+{{< /typeit >}}
+
 {{< /center-quote >}}
 
 

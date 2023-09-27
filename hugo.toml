@@ -58,11 +58,11 @@ hasCJKLanguage = true
       title = ""
       weight = 3
     [[languages.zh-cn.menu.main]]
-      identifier = "album"
+      identifier = "photo"
       pre = ""
       post = ""
-      name = "相册"
-      url = "/album/"
+      name = "随拍"
+      url = "/photo/"
       title = ""
       weight = 4  
     [[languages.zh-cn.menu.main]]
