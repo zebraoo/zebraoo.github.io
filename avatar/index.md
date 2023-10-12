@@ -41,6 +41,10 @@
                 url: '/avatar/images/avatar1.jpg',
                 desc: ''
             },
+            {
+                url: '/avatar/images/16794924.jpg',
+                desc: ''
+            },
         ]
 
         var albumsStr = ''
