@@ -1,3 +1,5 @@
+http://zebraoo.blog/jetpack-compose/
+http://zebraoo.blog/android/
 http://zebraoo.blog/npm/
 http://zebraoo.blog/mysql/
 http://zebraoo.blog/vue3/
